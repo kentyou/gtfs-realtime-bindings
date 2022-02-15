@@ -22,7 +22,7 @@
         <version>9</version>
     </parent>
 
-    <groupId>io.mobilitydata.transit</groupId>
+    <groupId>com.kentyou.io.mobilitydata.transit</groupId>
     <artifactId>gtfs-realtime-bindings</artifactId>
     <version>0.0.8-SNAPSHOT</version>
 
